@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "mini-router",
+    "api",
+    "cli"
+]
